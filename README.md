@@ -47,6 +47,20 @@
 
 ## 🍵 DB 모델링
 <img width="870" alt="스크린샷 2022-07-29 오후 5 02 46" src="https://user-images.githubusercontent.com/47664802/181713475-dec250ca-5c97-4223-9abf-932c85ef3fef.png">
+
+<br>
+
+## 🍵 Directory 구조
+```
+.
+├── cart
+├── categories
+├── core
+├── loctea
+├── orders
+├── products
+└── users
+```
    
 <br>
 
